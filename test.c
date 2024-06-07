@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
-  int sum,a,b;
+  int sum,a,b,sub;
 printf("hello world");
+  
 }
